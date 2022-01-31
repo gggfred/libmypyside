@@ -1,0 +1,2 @@
+# libmypyside
+My PySide Customizations
